@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **RodrigoRCZ/RodrigoRCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <img src="img/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+  <img src="img/computer.gif" style="max-width: 100%;" alt="OMG computer"/>
+
+</div>
