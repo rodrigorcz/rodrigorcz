@@ -18,6 +18,6 @@ Here are some ideas to get you started:
   <img src="img/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <!-- img src="img/computer.gif" style="max-width: 100%;" alt="OMG computer"/ -->
+  < img src="img/computer.gif" style="max-width: 100%;" alt="OMG computer"/ >
 
 </div>
