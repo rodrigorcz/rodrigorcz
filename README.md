@@ -39,7 +39,7 @@ I am a Computer Engineering student at [University of São Paulo](https://www5.u
 -->
 
 <br>
-
+<br>
 
 ## :link: Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
