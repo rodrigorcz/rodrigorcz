@@ -3,7 +3,7 @@
 I am a Computer Engineering student at [University of São Paulo](https://www5.usp.br/). I exploring new tech stack and leveraging them to build cool stuffs.
 <br>
 
-<img align="right" alt="GIF" src="icons/computer.gif" width="340px"/>
+<img align="right" alt="GIF" src="icons/computer.gif" width="220px"/>
 
 ## :monocle_face: More about me:
 
@@ -12,8 +12,7 @@ I am a Computer Engineering student at [University of São Paulo](https://www5.u
 - :gear: &nbsp; C and C++ are my favorite programming languages
 - :penguin: &nbsp; Linux Enjoyer
 
-<br>
-<br>
+
 
 ## :hammer_and_wrench: Languages and Tools:
 
@@ -40,7 +39,7 @@ I am a Computer Engineering student at [University of São Paulo](https://www5.u
 -->
 
 <br>
-<br>
+
 
 ## :link: Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
