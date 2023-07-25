@@ -11,6 +11,8 @@ I am a Computer Engineering student at [University of São Paulo](https://www5.u
 - :gear: &nbsp; C and C++ are my favorite programming languages
 - :penguin: &nbsp; Linux Enjoyer
 
+<br>
+<br>
 
 ## :hammer_and_wrench: Languages and Tools:
 
