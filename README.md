@@ -2,18 +2,17 @@
 
 I am a Computer Engineering student at [University of São Paulo](https://www5.usp.br/). I exploring new tech stack and leveraging them to build cool stuffs.
 
-<img aling="right" src="icons/computer.gif" width="360px" alt="computer"/>
+<img align="right" alt="GIF" src="icons/computer.gif" width="340px"/>
 
-## 🤔 More about me:
+## :monocle_face: More about me:
 
 - :rocket: &nbsp;I'm currently part of **[Zenith Aerospace](https://github.com/zenitheesc)**!
 - :computer: &nbsp; I'm currenttly learning more about Image Processing and Computer Vision
 - :gear: &nbsp; C and C++ are my favorite programming languages
 - :penguin: &nbsp; Linux Enjoyer
 
-<br>
 
-## 🔨 Languages and Tools:
+## :hammer_and_wrench: Languages and Tools:
 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="46px" src="icons/python.svg"></a>
 
@@ -38,15 +37,15 @@ I am a Computer Engineering student at [University of São Paulo](https://www5.u
 -->
 
 <br>
-
 <br>
 
-## Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+## :link: Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 | [<img src="icons/Linkedin.svg" alt="Linkedin" width="46">](https://in.linkedin.com/in/RodrigoRCZ) | [<img src="icons/Instagram.svg" alt="instagram" width="46">](https://www.instagram.com/rodrigo_rodrigues.jpeg/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="46">](https://github.com/RodrigoRCZ) | [<img src="icons/Gmail.svg" alt="Gmail " height="46">](mailto:rodrigo.rcastro27@gmail.com)
 |:---:|:---:|:---:|:---:|
 
 
 <!----
-  Reference: https://github.com/TheDudeThatCode
+  References: 
+  https://github.com/TheDudeThatCode
 -->
