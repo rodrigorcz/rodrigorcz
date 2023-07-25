@@ -8,9 +8,9 @@ I am a Computer Engineering student at [University of São Paulo](https://www5.u
 ## :monocle_face: More about me:
 
 - :rocket: &nbsp;I'm currently part of **[Zenith Aerospace](https://github.com/zenitheesc)**!
-- :computer: &nbsp; I'm currenttly learning more about Image Processing and Computer Vision
-- :gear: &nbsp; C and C++ are my favorite programming languages
-- :penguin: &nbsp; Linux Enjoyer
+- :computer: &nbsp;I'm currenttly learning more about Image Processing and Computer Vision
+- :gear: &nbsp;C and C++ are my favorite programming languages
+- :penguin: &nbsp;Linux Enjoyer
 
 
 
