@@ -11,26 +11,23 @@ I am a Computer Engineering student at [University of São Paulo](https://www5.u
 - :gear: &nbsp; C and C++ are my favorite programming languages
 - :penguin: &nbsp; Linux Enjoyer
 
-<br>
-<br>
-
 ## :hammer_and_wrench: Languages and Tools:
 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="36px" src="icons/python.svg"></a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="34px" src="icons/python.svg"></a>
 
-<a href="https://en.cppreference.com/w/" target="_blank"><img align="left" alt="C" height ="36px" src="icons/c.svg"></a>
+<a href="https://en.cppreference.com/w/" target="_blank"><img align="left" alt="C" height ="34px" src="icons/c.svg"></a>
 
-<a href="https://en.cppreference.com/w/" target="_blank"><img align="left" alt="C++" height ="36px" src="icons/c++.svg"></a>
+<a href="https://en.cppreference.com/w/" target="_blank"><img align="left" alt="C++" height ="34px" src="icons/c++.svg"></a>
 
-<a href="https://github.com/RodrigoRCZ" target="_blank"><img align="left" alt="JS" height ="36px" src="icons/javascript.svg"></a>
+<a href="https://github.com/RodrigoRCZ" target="_blank"><img align="left" alt="JS" height ="34px" src="icons/javascript.svg"></a>
 
-<a href="https://github.com/RodrigoRCZ" target="_blank"><img align="left" alt="HTML" height ="36px" src="icons/html.svg"></a>
+<a href="https://github.com/RodrigoRCZ" target="_blank"><img align="left" alt="HTML" height ="34px" src="icons/html.svg"></a>
 
-<a href="https://github.com/RodrigoRCZ" target="_blank"><img align="left" alt="CSS" height ="36px" src="icons/css.svg"></a>
+<a href="https://github.com/RodrigoRCZ" target="_blank"><img align="left" alt="CSS" height ="34px" src="icons/css.svg"></a>
 
-<a href="https://reactjs.org/" target="_blank"><img align="left" alt="React" height ="36px" src="icons/react.svg"></a>
+<a href="https://reactjs.org/" target="_blank"><img align="left" alt="React" height ="34px" src="icons/react.svg"></a>
 
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node" height ="36px" src="icons/node.svg"></a>
+<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node" height ="34px" src="icons/node.svg"></a>
 
 <a href="https://opencv.org/" target="_blank"><img align="left" alt="Opencv" height ="32px" src="https://raw.githubusercontent.com/wiki/opencv/opencv/logo/OpenCV_logo_no_text.svg"></a>
 
