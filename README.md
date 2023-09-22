@@ -43,7 +43,7 @@ I am a Computer Engineering student at [University of São Paulo](https://www5.u
 
 ## :link: Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
-| [<img src="icons/Linkedin.svg" alt="Linkedin" width="46">](https://in.linkedin.com/in/rodrigorcz) | [<img src="icons/Instagram.svg" alt="instagram" width="46">](https://www.instagram.com/rodrigo_rodrigues.jpeg/) | [<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="46">](https://github.com/RodrigoRCZ) | [<img src="icons/Gmail.svg" alt="Gmail " height="46">](mailto:rodrigo.rcastro27@gmail.com) | [<img src="icons/telegram.svg" alt="Telegram" width="46">](https://t.me/rodrigorcz) 
+| [<img src="icons/Linkedin.svg" alt="Linkedin" width="46">](https://in.linkedin.com/in/rodrigorcz) | [<img src="icons/Instagram.svg" alt="instagram" width="46">](https://www.instagram.com/rodrigo_rodrigues.jpeg/) | [<img src="https://cdn.simpleicons.org/github" alt="Github logo" width="46">](https://github.com/RodrigoRCZ) | [<img src="icons/Gmail.svg" alt="Gmail " height="46">](mailto:rodrigo.rcastro27@gmail.com) | [<img src="icons/telegram.svg" alt="Telegram" width="46">](https://t.me/rodrigorcz) 
 |:---:|:---:|:---:|:---:|:---:|
 
 
