@@ -1,6 +1,6 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I'm Rodrigo Rodrigues
 
-I am a Computer Engineering student at [University of São Paulo](https://www5.usp.br/). I exploring new tech stack and leveraging them to build cool stuffs.
+I am a Computer Engineering student at [University of São Paulo](https://www5.usp.br/). I exploring new tech concepts and leveraging them to build cool stuffs. Always trying to solve problems with creativity and logic.
 <br>
 
 <img align="right" alt="GIF" src="icons/computer.gif" width="220px"/>
