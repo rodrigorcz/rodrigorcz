@@ -24,9 +24,13 @@ I am a Computer Engineering student at [University of São Paulo](https://www5.u
 
 <a href="https://github.com/RodrigoRCZ" target="_blank"><img align="left" alt="JS" height ="46px" src="icons/javascript.svg"></a>
 
+<!--
 <a href="https://github.com/RodrigoRCZ" target="_blank"><img align="left" alt="HTML" height ="46px" src="icons/html.svg"></a>
+-->
 
+<!--
 <a href="https://github.com/RodrigoRCZ" target="_blank"><img align="left" alt="CSS" height ="46px" src="icons/css.svg"></a>
+-->
 
 <a href="https://reactjs.org/" target="_blank"><img align="left" alt="React" height ="46px" src="icons/react.svg"></a>
 
