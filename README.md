@@ -1,4 +1,4 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I'm Rodrigo Rodrigues
+# Hi there! <img src="icons/Hi.gif" width="35" /> I'm Rodrigo Rodrigues
 
 I am a Computer Engineering student at [University of São Paulo](https://www5.usp.br/). I exploring new tech concepts and leveraging them to build cool stuffs. Trying to solve problems with creativity and logic.
 <br>
@@ -21,7 +21,7 @@ I am a Computer Engineering student at [University of São Paulo](https://www5.u
 - :hammer_and_pick: &nbsp;ASM
   
   
-## :link: Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
+## :link: Connect with me <img src="icons/Handshake.gif" height="32px">
 
 | [<img src="icons/Linkedin.svg" alt="Linkedin" width="46">](https://in.linkedin.com/in/rodrigorcz) | [<img src="icons/Instagram.svg" alt="instagram" width="46">](https://www.instagram.com/rodrigo_rodrigues.jpeg/) | [<img src="icons/github.svg" alt="Github logo" width="46">](https://github.com/RodrigoRCZ) | [<img src="icons/Gmail.svg" alt="Gmail " height="46">](mailto:rodrigo.rcastro27@gmail.com) | [<img src="icons/telegram.svg" alt="Telegram" width="46">](https://t.me/rodrigorcz) 
 |:---:|:---:|:---:|:---:|:---:|
