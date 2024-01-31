@@ -18,6 +18,8 @@ I am a Computer Engineering student at [University of São Paulo](https://www5.u
 - :mag: &nbsp;C/C++
 - :coffee: &nbsp;Java
 - :zap: &nbsp;Javascript
+- :hammer_and_pick: &nbsp;ASM
+  
   
 ## :link: Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
