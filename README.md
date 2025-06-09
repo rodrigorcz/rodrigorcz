@@ -8,4 +8,10 @@ I am an undergraduate student in Computer Science at the [University of São Pau
 - :computer: &nbsp; I'm currenttly learning more about Machine Learning and Data Science.
 - :penguin: &nbsp; Linux Enjoyer
 
+### 💻 Programming  
+C/C++, Python, Java, SQL, JavaScript
+
+### 🛠️ Technologies  
+Linux, PostgreSQL, React, Node.js, Git, Pandas, Scikit-learn
+
 
